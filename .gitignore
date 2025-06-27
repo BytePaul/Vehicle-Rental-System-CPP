@@ -1,0 +1,43 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# CMake build directory
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Backup & temporary files
+*~
+*.swp
+*.bak
+*.tmp
+*.log
+
+# Editor-specific
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Data files
+/data/*.csv
+
+# Unit test results
+/tests/*.log
+/tests/*.tmp
+/tests/build/
