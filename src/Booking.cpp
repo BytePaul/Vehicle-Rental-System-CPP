@@ -8,3 +8,8 @@ void Booking::displayBooking() const {
     std::cout << "Booked: " << timestamp << ", Duration: " << duration << " hrs, Fare: " << fare << "\n";
     vehicle->displayInfo();
 }
+
+std::string Booking::getTimestamp() const { return timestamp; }
+int Booking::getDuration() const { return duration; }
+double Booking::getFare() const { return fare; }
+Vehicle* Booking::getVehicle() const { return vehicle; }

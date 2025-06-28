@@ -204,6 +204,7 @@ VehicleRentalSystem: CMakeFiles/VehicleRentalSystem.dir/src/Truck.cpp.o
 VehicleRentalSystem: CMakeFiles/VehicleRentalSystem.dir/src/Vehicle.cpp.o
 VehicleRentalSystem: CMakeFiles/VehicleRentalSystem.dir/src/main.cpp.o
 VehicleRentalSystem: CMakeFiles/VehicleRentalSystem.dir/build.make
+VehicleRentalSystem: /usr/lib/x86_64-linux-gnu/libsqlite3.so
 VehicleRentalSystem: CMakeFiles/VehicleRentalSystem.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/paul/Documents/VehicleRentalSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable VehicleRentalSystem"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/VehicleRentalSystem.dir/link.txt --verbose=$(VERBOSE)

@@ -13,6 +13,11 @@ class Booking {
 public:
     Booking(std::string time, Vehicle* v, int hours);
     void displayBooking() const;
+    std::string getTimestamp() const;
+    int getDuration() const;
+    double getFare() const;
+    Vehicle* getVehicle() const;
+
 };
 
 #endif
