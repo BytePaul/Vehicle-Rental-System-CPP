@@ -55,7 +55,7 @@ make
 ./VehicleRentalSystem ../data/rental.db
 
 ## 🧪 Example Interaction
-´´
+```
 Enter customer ID: 101
 Enter customer name: Alice
 
@@ -71,7 +71,7 @@ Vehicle rented successfully to Alice!
 Return vehicle? (y/n): y
 Enter registration number: KA01AB1234
 Vehicle KA01AB1234 returned successfully.
-´´
+```
 ## ✅ To Do
 
 - Add login functionality (admin/customer)
