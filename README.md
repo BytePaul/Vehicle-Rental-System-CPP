@@ -12,7 +12,7 @@ A terminal-based Vehicle Rental System written in modern C++ (C++17) with SQLite
 - Object-oriented architecture using C++, STL, and smart pointers
 
 ## 📁 Project Structure
-
+```
 vehicle-rental-system/
 ├── include/              # Header files (Vehicle, Car, Bike, etc.)
 ├── src/                  # Implementation files
@@ -21,8 +21,8 @@ vehicle-rental-system/
 │   └── rental.sql        # Schema + initial data
 ├── main.cpp              # Entry point
 ├── CMakeLists.txt        # Build configuration
-└── README.md
-
+└── README.md             # Project documentation
+```
 ## 🛠️ Prerequisites
 
 - C++17 compatible compiler
